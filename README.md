@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jackypoo100
 - 👀 I’m interested in not talking to people
-- 🌱 I’m currently learning about Agrotek and precision agriculture
-- 💞️ I’m looking to collaborate on using Prc. Ag. 
+- 🌱 I’m currently learning about Agrotek and Precision Agriculture
+- 💞️ I’m looking to collaborate on using Prec. Ag. 
 - 📫 How to reach me: don't.
 
 <!---
